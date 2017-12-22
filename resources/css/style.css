@@ -1,0 +1,41 @@
+
+}
+#title{
+  font-weight: normal;
+  font-size: 50px;
+  text-align:: center;
+}
+body{
+  background-color: black;
+  text-align: center;
+  font-family: Veranda, sans-serif;
+  color: white;
+}
+
+#title{
+  font-size: 50px;
+}
+#personal,#comingsoon{
+  font-weight :300;
+  font-size :42px;
+}
+#blurb{
+  color: gray;
+  font-size: 20px;
+
+}
+
+
+
+}
+#video{
+  position: center;
+}
+#copyright{
+  text-align: right;
+}
+
+#link1,#link2{
+  font-size: 16px;
+  color: Aquamarine;
+}
